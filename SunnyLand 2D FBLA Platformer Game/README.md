@@ -53,5 +53,5 @@ Double click on the program to download and play the game
 
 ## Creators
 * Allen Chen (Programmer for UI Elements)
-* Sai Sakhamuri (Level Designer)
+* Sai Sakhamuri (Level/Gameplay Designer)
 * Steven Zhang (Programmer for Game Elements)
